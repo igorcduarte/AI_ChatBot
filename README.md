@@ -11,7 +11,7 @@ It utilizes the **LLaMA 3 70b** large language model (LLM) developed by META.
 
 ## Dependencies  
 To use this chatbot, you will need:  
-- An API key from **groq.com**  
+- An API key from **[Groq](https://groq.com/)**  
 - The following libraries:  
   - `LangChain`  
   - `pypdf`  
