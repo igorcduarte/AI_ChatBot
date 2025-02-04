@@ -1,7 +1,7 @@
 # AI Chatbot  
 
 This bot is a formal intelligent assistant designed to perform various tasks such as:  
-- Transcribing videos into text  
+- Transcribing YouTube videos into text 
 - Summarizing PDF files  
 - Searching certain websites  
 - Engaging in conversations with AI  
